@@ -1,6 +1,6 @@
 
 {
-  "name": "skyboy-webapp",
+  "name": "skyboy-full-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
